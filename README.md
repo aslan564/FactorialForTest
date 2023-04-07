@@ -15,6 +15,6 @@ allprojects {
 
 ```gradle
 dependencies {
-	        implementation 'com.github.aslan564:FactorialForTest:4ce340798a'
+	        implementation 'com.github.aslan564:FactorialForTest:Tag'
 	}
   ```
